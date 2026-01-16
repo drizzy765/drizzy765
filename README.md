@@ -2,7 +2,7 @@
 
 I am a **Quantitative Data Scientist & AI/ML Engineer** and a final-year B.Sc. Mathematics student at **Lagos State University**. I combine mathematical rigor with Deep Learning to build systems for Finance and Sustainability.
 
-- 🔭 **I’m currently building:** [GreenPulse NG (V2)](https://greenpulsefrontend-ysl7.vercel.app/) — An eco-impact tracker for Nigeria.
+- 🔭 **I’m currently building:** [GreenPulse NG (V2)](https://greenpulsefrontend.vercel.app/) — An eco-impact tracker for Nigeria.
 - 📉 **Financial ML:** Researching **Algorithmic Trading** and **Time-Series Forecasting**. My thesis explores *Nigerian Commodity Price Volatility* using Elastic Net Regression & PCA.
 - 🧠 **Deep Learning:** Advancing my skills via the **IBM AI Engineering** professional course.
 - 🏆 **Community:** Active member of **Data Science Nigeria (DSN)** and a frequent Hackathon participant.
