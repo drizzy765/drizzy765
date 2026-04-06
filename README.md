@@ -35,20 +35,21 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=timilovesml&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=timilovesml&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=drizzy765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=drizzy765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </picture>
-  
+
+  <br><br>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=timilovesml&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilovesml&theme=radical&hide_border=true" alt="Streak Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=drizzy765&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drizzy765&theme=tokyonight&hide_border=true" alt="Contribution Streak">
   </picture>
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
