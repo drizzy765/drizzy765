@@ -104,13 +104,13 @@ Full-stack AI emissions tracker tailored for Nigeria’s generator-heavy energy 
 
 ---
 
-### 🌊 Contribution Activity
+### 🌊 GitHub Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timilovesml/timilovesml/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timilovesml/timilovesml/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/timilovesml/timilovesml/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drizzy765/drizzy765/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drizzy765/drizzy765/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/drizzy765/drizzy765/output/github-snake.svg" />
   </picture>
 </div>
 
