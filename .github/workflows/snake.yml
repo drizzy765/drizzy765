@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: drizzy765       # ← CHANGE THIS TO YOUR EXACT USERNAME
+          github_user_name: drizzy765  
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
