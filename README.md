@@ -15,7 +15,7 @@
     Passionate about <strong>Time-Series Forecasting</strong>, <strong>Volatility Modeling</strong>, <strong>MLOps</strong>, and building AI tools that solve real Nigerian challenges in Finance & Sustainability.
   </p>
 
-  <a href="https://agoro-portfolio.vercel.app/" target="_blank">
+  <a href="https://drizzy.agoro-timilehin.workers.dev//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/agoro-oluwatimilehin" target="_blank">
