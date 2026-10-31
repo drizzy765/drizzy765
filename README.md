@@ -20,7 +20,7 @@ I build ML systems for emerging markets: code-switched speech AI, LLM retrieval 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[SautiCivic Bridge](https://github.com/Spyder0000/Sauticivic)** · 2026 · [live](https://sauticivic.pages.dev/) | Voice-first civic-grievance intake for code-switched Nigerian Pidgin/English. 4-engine ASR benchmark plus an abstain/clarify risk gate. 🏆 **Winner, Sahara CodeSwitch Africa 2026** (Legal & Public Services and SMT). Lead architect. | Python, FastAPI, React, PostgreSQL, Whisper, Sahara ASR |
+| **[SautiCivic Bridge](https://github.com/Spyder0000/Sauticivic)** · 2026 · [live](https://sauticivic.pages.dev/) | Voice-first civic-grievance intake for code-switched Nigerian Pidgin/English. 4-engine ASR benchmark plus an abstain/clarify risk gate. 🏆 **1st Place, Sahara CodeSwitch Africa 2026** (Agric, Education & Govt Services, $1,750). Lead architect. | Python, FastAPI, React, PostgreSQL, Whisper, Sahara ASR |
 | **[Naija Smart Agent](https://github.com/GeeksonCodes/dsn-bct-2026)** · 2026 · [live](https://geeksoncodes.github.io/dsn-bct-2026/) | Dual-agent recommender (FAISS + LLM reranking) and review simulator in 5 Nigerian language modes. NDCG@10 0.42, Hit@10 0.66 (DSN × BCT Hackathon 3.0). | FAISS, Gemini, Groq Llama-3.3, PyTorch |
 | **[Gitcast](https://github.com/drizzy765/gitcast)** · 2026 · [PyPI](https://pypi.org/project/gitcast/) | Privacy-first CLI that turns a coding session (git diff + on-device OCR with secret detection) into PR descriptions and posts. | Python, FastAPI, Tesseract, Groq, Supabase |
 | **[Commodity Volatility Forecasting](https://github.com/drizzy765/Nigerian-Commodity-Price-Volatility-Forecasting)** · 2026 · [live](https://forecasting2.vercel.app/) | Regime-aware PCA + Elastic Net forecasts of maize, rice, PMS and diesel volatility, with MLflow tracking. | scikit-learn, PCA, Elastic Net, MLflow |
@@ -31,7 +31,7 @@ I build ML systems for emerging markets: code-switched speech AI, LLM retrieval 
 
 ## 🏆 Hackathons & wins
 
-- 🏆 **Winner, Sahara CodeSwitch Africa Challenge 2026 (Intron Voice AI):** Legal & Public Services track and SMT category, with [SautiCivic Bridge](https://github.com/Spyder0000/Sauticivic) (team of 2)
+- 🏆 **1st Place, Sahara CodeSwitch Africa 2026 (Intron):** Agric, Education & Govt Services category ($1,750 prize), with [SautiCivic Bridge](https://github.com/Spyder0000/Sauticivic), Legal & Govt Services use case (Spider Eng, team of 2)
 - 🥇 **DSN Bootcamp Qualification Hackathon 2026 (ML Track):** 5th of 307 teams, solo ([notebook](https://github.com/drizzy765/my-notebook))
 - 🏅 **DSN Hackathon 2025 (used-car price prediction):** 8th on the private leaderboard, solo ([repo](https://github.com/drizzy765/DSN_Hackathon_2025_CarPrice))
 - 🎯 **DSN AI Bootcamp 2025:** selected into the final 223 of 30,000+ applicants (~top 0.8%)
