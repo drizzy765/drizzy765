@@ -6,7 +6,7 @@
 
 I build ML systems for emerging markets: code-switched speech AI, LLM retrieval and recommendation, and regime-aware financial forecasting, shipped with tests, tracking and real deployments.
 
-<a href="https://timis.tech"><img src="https://img.shields.io/badge/timis.tech-FF3B4E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"></a>
+<a href="https://agoro-portfolio.timis.tech"><img src="https://img.shields.io/badge/Portfolio-FF3B4E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio"></a>
 <a href="https://drizzy765.github.io/portfolio/"><img src="https://img.shields.io/badge/Mirror-1a1a1a?style=for-the-badge&logo=githubpages&logoColor=FF3B4E" alt="Mirror"></a>
 <a href="https://www.linkedin.com/in/agoro-oluwatimilehin-aba2851aa/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=FF3B4E" alt="LinkedIn"></a>
 <a href="https://x.com/timilovesml1234"><img src="https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=FF3B4E" alt="X"></a>
